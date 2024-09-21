@@ -1,6 +1,7 @@
 # Simple DAO
 
 [Meta Contract Documentation](https://mc-book.ecdysis.xyz/)を参考に実装していく。
+実装自体はテンプレートにあるので参照用
 
 ## Diagram
 
